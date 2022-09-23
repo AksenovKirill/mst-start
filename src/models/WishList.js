@@ -1,4 +1,4 @@
-import { types } from "mobx-react-state";
+import { types } from "mobx-state-tree";
 
 export const WishListItem = types
   .model({
